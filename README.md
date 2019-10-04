@@ -1,1 +1,1 @@
-# test02server
+# server

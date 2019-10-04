@@ -1,0 +1,2 @@
+(window["webpackJsonpreact-starter"]=window["webpackJsonpreact-starter"]||[]).push([[8],{118:function(t,n,e){"use strict";e.r(n);var r=e(0),a=e.n(r),c=function(){return a.a.createElement("div",null," 2 \u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e 404")};e.d(n,"default",(function(){return c}))}}]);
+//# sourceMappingURL=8.678eb359.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["accordion.scss"],"names":[],"mappings":"AAAA,yBACI,qDAA6C,CAA7C,6CAA6C","file":"6.0b9554b4.chunk.css","sourcesContent":[".collapse-css-transition {\r\n    transition:height .2s cubic-bezier(.4,0,.2,1)\r\n}"]}
